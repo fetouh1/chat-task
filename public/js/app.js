@@ -10995,7 +10995,8 @@ var app = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
             time: []
         },
         typing: '',
-        numberOfUsers: 0
+        numberOfUsers: 0,
+        user: name
     },
     watch: {
         message: function message() {
