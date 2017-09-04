@@ -5,8 +5,8 @@
 
 ## Environment
 * [PHP > 5.6.*](http://php.net)
-* [NodeJS > v7.10.1]
-* [npm > 4.2.0]
+* [NodeJS > v7.10.1](https://nodejs.org/en/docs/)
+* [npm > 4.2.0](https://www.npmjs.com/)
 
 ## Description
 A simple chat demo, users can send and recieve messages, see all online users, see message history.
